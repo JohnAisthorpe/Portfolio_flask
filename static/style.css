@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Encode Sans", Arial, sans-serif;
+  background-color: bisque;
+  
+}
+
+#name {
+  margin: auto;
+  width: 60%;
+  font-family: "Encode Sans", sans-serif;
+}
+
+header {
+  display: flex;
+}
+
+
+nav > ul {
+  list-style: none;
+}
+
+nav {
+  text-align: center;
+}
+
+nav > ul > li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav > ul > li > a {
+  color: black;
+  list-style: none;
+}
+
+body > main > article {
+  margin: auto;
+  width: 80%;
+}
+
+
